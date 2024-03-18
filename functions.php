@@ -117,5 +117,5 @@ function display_post($post_id) {
     return $row;
 }
 
- 
+
 ?>
